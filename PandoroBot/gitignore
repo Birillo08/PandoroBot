@@ -1,0 +1,25 @@
+
+# Ignora il file .env che contiene variabili d'ambiente sensibili
+.env
+
+# Ignora le cartelle create da Python e gli editor di testo
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignora i file e le cartelle di Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Ignora file di configurazione di sistema o IDE specifici
+*.sublime-project
+*.sublime-workspace
+.idea/
+
+# Ignora eventuali file di log o di dati temporanei
+*.log
+*.tmp
+
+# Ignora gli ambienti virtuali Python
+venv/
+env/

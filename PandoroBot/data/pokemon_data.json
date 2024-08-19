@@ -1,0 +1,5612 @@
+[
+    {
+        "id": 1,
+        "nome": "Bulbasaur",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 2,
+        "nome": "Ivysaur",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 3,
+        "nome": "Venusaur",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 4,
+        "nome": "Charmander",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 5,
+        "nome": "Charmeleon",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 6,
+        "nome": "Charizard",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 7,
+        "nome": "Squirtle",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 8,
+        "nome": "Wartortle",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 9,
+        "nome": "Blastoise",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 10,
+        "nome": "Caterpie",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 11,
+        "nome": "Metapod",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 12,
+        "nome": "Butterfree",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 13,
+        "nome": "Weedle",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 14,
+        "nome": "Kakuna",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 15,
+        "nome": "Beedrill",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 16,
+        "nome": "Pidgey",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 17,
+        "nome": "Pidgeotto",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 18,
+        "nome": "Pidgeot",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 19,
+        "nome": "Rattata",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 20,
+        "nome": "Raticate",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 21,
+        "nome": "Spearow",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 22,
+        "nome": "Fearow",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 23,
+        "nome": "Ekans",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 24,
+        "nome": "Arbok",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 25,
+        "nome": "Pikachu",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 26,
+        "nome": "Raichu",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 27,
+        "nome": "Sandshrew",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 28,
+        "nome": "Sandslash",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 29,
+        "nome": "Nidoran\u2640",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 30,
+        "nome": "Nidorina",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 31,
+        "nome": "Nidoqueen",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 32,
+        "nome": "Nidoran\u2642",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 33,
+        "nome": "Nidorino",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 34,
+        "nome": "Nidoking",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 35,
+        "nome": "Clefairy",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 36,
+        "nome": "Clefable",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 37,
+        "nome": "Vulpix",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 38,
+        "nome": "Ninetales",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 39,
+        "nome": "Jigglypuff",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 40,
+        "nome": "Wigglytuff",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 41,
+        "nome": "Zubat",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 42,
+        "nome": "Golbat",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 43,
+        "nome": "Diglett",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 44,
+        "nome": "Dugtrio",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 45,
+        "nome": "Meowth",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 46,
+        "nome": "Persian",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 47,
+        "nome": "Psyduck",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 48,
+        "nome": "Golduck",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 49,
+        "nome": "Mankey",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 50,
+        "nome": "Primeape",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 51,
+        "nome": "Growlithe",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 52,
+        "nome": "Arcanine",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 53,
+        "nome": "Poliwag",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 54,
+        "nome": "Poliwhirl",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 55,
+        "nome": "Poliwrath",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 56,
+        "nome": "Machop",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 57,
+        "nome": "Machoke",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 58,
+        "nome": "Machamp",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 59,
+        "nome": "Bellsprout",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 60,
+        "nome": "Weepinbell",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 61,
+        "nome": "Victreebel",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 62,
+        "nome": "Tentacool",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 63,
+        "nome": "Tentacruel",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 64,
+        "nome": "Geodude",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 65,
+        "nome": "Graveler",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 66,
+        "nome": "Golem",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 67,
+        "nome": "Ponyta",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 68,
+        "nome": "Rapidash",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 69,
+        "nome": "Slowpoke",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 70,
+        "nome": "Slowbro",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 71,
+        "nome": "Magnemite",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 72,
+        "nome": "Magneton",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 73,
+        "nome": "Farfetch'd",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 74,
+        "nome": "Doduo",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 75,
+        "nome": "Dodrio",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 76,
+        "nome": "Seel",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 77,
+        "nome": "Dewgong",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 78,
+        "nome": "Grimer",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 79,
+        "nome": "Muk",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 80,
+        "nome": "Shellder",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 81,
+        "nome": "Cloyster",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 82,
+        "nome": "Gastly",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 83,
+        "nome": "Haunter",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 84,
+        "nome": "Gengar",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 85,
+        "nome": "Onix",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 86,
+        "nome": "Steelix",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 87,
+        "nome": "Drowzee",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 88,
+        "nome": "Hypno",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 89,
+        "nome": "Krabby",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 90,
+        "nome": "Kingler",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 91,
+        "nome": "Voltorb",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 92,
+        "nome": "Electrode",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 93,
+        "nome": "Exeggcute",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 94,
+        "nome": "Exeggutor",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 95,
+        "nome": "Marowak",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 96,
+        "nome": "Hitmonlee",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 97,
+        "nome": "Hitmonchan",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 98,
+        "nome": "Lickitung",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 99,
+        "nome": "Koffing",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 100,
+        "nome": "Weezing",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 101,
+        "nome": "Rhyhorn",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 102,
+        "nome": "Rhydon",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 103,
+        "nome": "Chansey",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 104,
+        "nome": "Tangela",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 105,
+        "nome": "Tangrowth",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 106,
+        "nome": "Kangaskhan",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 107,
+        "nome": "Horsea",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 108,
+        "nome": "Seadra",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 109,
+        "nome": "Goldeen",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 110,
+        "nome": "Seaking",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 111,
+        "nome": "Staryu",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 112,
+        "nome": "Starmie",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 113,
+        "nome": "Mr. Mime",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 114,
+        "nome": "Scyther",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 115,
+        "nome": "Scizor",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 116,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 117,
+        "nome": "Electivire",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 118,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 119,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 120,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 121,
+        "nome": "Tauros",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 122,
+        "nome": "Magikarp",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 123,
+        "nome": "Gyarados",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 124,
+        "nome": "Lapras",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 125,
+        "nome": "Ditto",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 126,
+        "nome": "Eevee",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 127,
+        "nome": "Vaporeon",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 128,
+        "nome": "Jolteon",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 129,
+        "nome": "Flareon",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 130,
+        "nome": "Porygon",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 131,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 132,
+        "nome": "Omanyte",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 133,
+        "nome": "Omastar",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 134,
+        "nome": "Kabuto",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 135,
+        "nome": "Kabutops",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 136,
+        "nome": "Aerodactyl",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 137,
+        "nome": "Snorlax",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 138,
+        "nome": "Articuno",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 139,
+        "nome": "Zapdos",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 140,
+        "nome": "Moltres",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 141,
+        "nome": "Dratini",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 142,
+        "nome": "Dragonair",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 143,
+        "nome": "Dragonite",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 144,
+        "nome": "Chikorita",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 145,
+        "nome": "Bayleef",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 146,
+        "nome": "Meganium",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 147,
+        "nome": "Cyndaquil",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 148,
+        "nome": "Quilava",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 149,
+        "nome": "Typhlosion",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 150,
+        "nome": "Totodile",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 151,
+        "nome": "Croconaw",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 152,
+        "nome": "Feraligatr",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 153,
+        "nome": "Sentret",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 154,
+        "nome": "Furret",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 155,
+        "nome": "Hoothoot",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 156,
+        "nome": "Noctowl",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 157,
+        "nome": "Ledyba",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 158,
+        "nome": "Ledian",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 159,
+        "nome": "Spinarak",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 160,
+        "nome": "Ariados",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 161,
+        "nome": "Crobat",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 162,
+        "nome": "Chinchou",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 163,
+        "nome": "Lanturn",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 164,
+        "nome": "Pichu",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 165,
+        "nome": "Cleffa",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 166,
+        "nome": "Togepi",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 167,
+        "nome": "Togetic",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 168,
+        "nome": "Natu",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 169,
+        "nome": "Xatu",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 170,
+        "nome": "Roxy",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 171,
+        "nome": "Rattata",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 172,
+        "nome": "Tropius",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 173,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 174,
+        "nome": "Houndour",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 175,
+        "nome": "Houndoom",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 176,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 177,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 178,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 179,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 180,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 181,
+        "nome": "Jynx",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 182,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 183,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 184,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 185,
+        "nome": "Magmar",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 186,
+        "nome": "Miltank",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 187,
+        "nome": "Blissey",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 188,
+        "nome": "Raikou",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 189,
+        "nome": "Entei",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 190,
+        "nome": "Suicune",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 191,
+        "nome": "Larvitar",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 192,
+        "nome": "Pupitar",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 193,
+        "nome": "Tyranitar",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 194,
+        "nome": "Lugia",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 195,
+        "nome": "Ho-Oh",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 196,
+        "nome": "Celebi",
+        "rarit\u00e0": "Leggendario",
+        "percentuale": 10
+    },
+    {
+        "id": 197,
+        "nome": "Treecko",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 198,
+        "nome": "Grovyle",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 199,
+        "nome": "Sceptile",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 200,
+        "nome": "Torchic",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 201,
+        "nome": "Combusken",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 202,
+        "nome": "Blaziken",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 203,
+        "nome": "Mudkip",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 204,
+        "nome": "Marshtomp",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 205,
+        "nome": "Swampert",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 206,
+        "nome": "Poochyena",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 207,
+        "nome": "Mightyena",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 208,
+        "nome": "Zigzagoon",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 209,
+        "nome": "Linoone",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 210,
+        "nome": "Wurmple",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 211,
+        "nome": "Silcoon",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 212,
+        "nome": "Beautifly",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 213,
+        "nome": "Cascoon",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 214,
+        "nome": "Dustox",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 215,
+        "nome": "Lunatone",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 216,
+        "nome": "Solrock",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 217,
+        "nome": "Gulpin",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 218,
+        "nome": "Swalot",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 219,
+        "nome": "Roselia",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 220,
+        "nome": "Roserade",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 221,
+        "nome": "Surskit",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 222,
+        "nome": "Masquecrain",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 223,
+        "nome": "Shroomish",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 224,
+        "nome": "Breloom",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 225,
+        "nome": "Slakoth",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 226,
+        "nome": "Vigoroth",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 227,
+        "nome": "Slaking",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 228,
+        "nome": "Nincada",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 229,
+        "nome": "Ninjask",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 230,
+        "nome": "Shedinja",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 231,
+        "nome": "Whismur",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 232,
+        "nome": "Loudred",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 233,
+        "nome": "Exploud",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 234,
+        "nome": "Makuhita",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 235,
+        "nome": "Hariyama",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 236,
+        "nome": "Azurill",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 237,
+        "nome": "Marill",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 238,
+        "nome": "Azumarill",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 239,
+        "nome": "Nosepass",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 240,
+        "nome": "Probopass",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 241,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 242,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 243,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 244,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 245,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 246,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 247,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 248,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 249,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 250,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 251,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 252,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 253,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 254,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 255,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 256,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 257,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 258,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 259,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 260,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 261,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 262,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 263,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 264,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 265,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 266,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 267,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 268,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 269,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 270,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 271,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 272,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 273,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 274,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 275,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 276,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 277,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 278,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 279,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 280,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 281,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 282,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 283,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 284,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 285,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 286,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 287,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 288,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 289,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 290,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 291,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 292,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 293,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 294,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 295,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 296,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 297,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 298,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 299,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 300,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 301,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 302,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 303,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 304,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 305,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 306,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 307,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 308,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 309,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 310,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 311,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 312,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 313,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 314,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 315,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 316,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 317,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 318,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 319,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 320,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 321,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 322,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 323,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 324,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 325,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 326,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 327,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 328,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 329,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 330,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 331,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 332,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 333,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 334,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 335,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 336,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 337,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 338,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 339,
+        "nome": "Skitty",
+        "rarit\u00e0": "Comune",
+        "percentuale": 60
+    },
+    {
+        "id": 340,
+        "nome": "Delcatty",
+        "rarit\u00e0": "Raro",
+        "percentuale": 20
+    },
+    {
+        "id": 341,
+        "nome": "Camerupt",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 342,
+        "nome": "Torkoal",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 343,
+        "nome": "Spoink",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 344,
+        "nome": "Grumpig",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 345,
+        "nome": "Spinda",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 346,
+        "nome": "Swablu",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 347,
+        "nome": "Altaria",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 348,
+        "nome": "Wynaut",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 349,
+        "nome": "Wobbuffet",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 350,
+        "nome": "Snorunt",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 351,
+        "nome": "Glalie",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 352,
+        "nome": "Froslass",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 353,
+        "nome": "Registeel",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 354,
+        "nome": "Regice",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 355,
+        "nome": "Regirock",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 356,
+        "nome": "Latias",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 357,
+        "nome": "Latios",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 358,
+        "nome": "Kyogre",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 359,
+        "nome": "Groudon",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 360,
+        "nome": "Rayquaza",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 361,
+        "nome": "Jirachi",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 362,
+        "nome": "Deoxys",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 363,
+        "nome": "Turtwig",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 364,
+        "nome": "Grotle",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 365,
+        "nome": "Torterra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 366,
+        "nome": "Chimchar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 367,
+        "nome": "Monferno",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 368,
+        "nome": "Infernape",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 369,
+        "nome": "Piplup",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 370,
+        "nome": "Prinplup",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 371,
+        "nome": "Empoleon",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 372,
+        "nome": "Starly",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 373,
+        "nome": "Staravia",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 374,
+        "nome": "Staraptor",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 375,
+        "nome": "Bidoof",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 376,
+        "nome": "Bibarel",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 377,
+        "nome": "Kricketot",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 378,
+        "nome": "Kricketune",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 379,
+        "nome": "Shinx",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 380,
+        "nome": "Luxio",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 381,
+        "nome": "Luxray",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 382,
+        "nome": "Budew",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 383,
+        "nome": "Roselia",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 384,
+        "nome": "Roserade",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 385,
+        "nome": "Cranidos",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 386,
+        "nome": "Rampardos",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 387,
+        "nome": "Shieldon",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 388,
+        "nome": "Bastiodon",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 389,
+        "nome": "Burmy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 390,
+        "nome": "Wormadam",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 391,
+        "nome": "Mothim",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 392,
+        "nome": "Combee",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 393,
+        "nome": "Vespiquen",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 394,
+        "nome": "Pachirisu",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 395,
+        "nome": "Buneary",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 396,
+        "nome": "Lopunny",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 397,
+        "nome": "Glameow",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 398,
+        "nome": "Purugly",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 399,
+        "nome": "Chingling",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 400,
+        "nome": "Chimecho",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 401,
+        "nome": "Absol",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 402,
+        "nome": "Wynaut",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 403,
+        "nome": "Wobbuffet",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 404,
+        "nome": "Snorunt",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 405,
+        "nome": "Glalie",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 406,
+        "nome": "Froslass",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 407,
+        "nome": "Spheal",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 408,
+        "nome": "Sealeo",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 409,
+        "nome": "Walrein",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 410,
+        "nome": "Clamperl",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 411,
+        "nome": "Huntail",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 412,
+        "nome": "Gorebyss",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 413,
+        "nome": "Relicanth",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 414,
+        "nome": "Luvdisc",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 415,
+        "nome": "Corphish",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 416,
+        "nome": "Crawdaunt",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 417,
+        "nome": "Feebas",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 418,
+        "nome": "Milotic",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 419,
+        "nome": "Carvanha",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 420,
+        "nome": "Sharpedo",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 421,
+        "nome": "Wailmer",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 422,
+        "nome": "Wailord",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 423,
+        "nome": "Numel",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 424,
+        "nome": "Camerupt",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 425,
+        "nome": "Torkoal",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 426,
+        "nome": "Spoink",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 427,
+        "nome": "Grumpig",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 428,
+        "nome": "Spinda",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 429,
+        "nome": "Swablu",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 430,
+        "nome": "Altaria",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 431,
+        "nome": "Wynaut",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 432,
+        "nome": "Wobbuffet",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 433,
+        "nome": "Snorunt",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 434,
+        "nome": "Glalie",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 435,
+        "nome": "Froslass",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 436,
+        "nome": "Registeel",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 437,
+        "nome": "Regice",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 438,
+        "nome": "Regirock",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 439,
+        "nome": "Latias",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 440,
+        "nome": "Latios",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 441,
+        "nome": "Kyogre",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 442,
+        "nome": "Groudon",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 443,
+        "nome": "Rayquaza",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 444,
+        "nome": "Jirachi",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 445,
+        "nome": "Deoxys",
+        "rarit\u00e0": "Leggendario",
+        "probabilit\u00e0": "1%"
+    },
+    {
+        "id": 446,
+        "nome": "Turtwig",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 447,
+        "nome": "Grotle",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 448,
+        "nome": "Torterra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 449,
+        "nome": "Chimchar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 450,
+        "nome": "Monferno",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 451,
+        "nome": "Infernape",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 452,
+        "nome": "Piplup",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 453,
+        "nome": "Prinplup",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 454,
+        "nome": "Empoleon",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 455,
+        "nome": "Starly",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 456,
+        "nome": "Staravia",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 457,
+        "nome": "Staraptor",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 458,
+        "nome": "Bidoof",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 459,
+        "nome": "Bibarel",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 460,
+        "nome": "Kricketot",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 461,
+        "nome": "Kricketune",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 462,
+        "nome": "Shinx",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 463,
+        "nome": "Luxio",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 464,
+        "nome": "Luxray",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 465,
+        "nome": "Budew",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 466,
+        "nome": "Roselia",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 467,
+        "nome": "Roserade",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 468,
+        "nome": "Cranidos",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 469,
+        "nome": "Rampardos",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 470,
+        "nome": "Shieldon",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 471,
+        "nome": "Bastiodon",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 472,
+        "nome": "Burmy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 473,
+        "nome": "Wormadam",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 474,
+        "nome": "Mothim",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 475,
+        "nome": "Combee",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 476,
+        "nome": "Vespiquen",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 477,
+        "nome": "Pachirisu",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 478,
+        "nome": "Buneary",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 479,
+        "nome": "Lopunny",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 480,
+        "nome": "Glameow",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 481,
+        "nome": "Purugly",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 482,
+        "nome": "Chingling",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 483,
+        "nome": "Chimecho",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 484,
+        "nome": "Absol",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 485,
+        "nome": "Wynaut",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 486,
+        "nome": "Wobbuffet",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 487,
+        "nome": "Snorunt",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 488,
+        "nome": "Glalie",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 489,
+        "nome": "Froslass",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 490,
+        "nome": "Spheal",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 491,
+        "nome": "Sealeo",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 492,
+        "nome": "Walrein",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 493,
+        "nome": "Clamperl",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 494,
+        "nome": "Huntail",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 495,
+        "nome": "Gorebyss",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 496,
+        "nome": "Relicanth",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 497,
+        "nome": "Luvdisc",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 498,
+        "nome": "Corphish",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 499,
+        "nome": "Crawdaunt",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 500,
+        "nome": "Feebas",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 501,
+        "nome": "Dunsparce",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 502,
+        "nome": "Gligar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 503,
+        "nome": "Steelix",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 504,
+        "nome": "Snubbull",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 505,
+        "nome": "Granbull",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 506,
+        "nome": "Qwilfish",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 507,
+        "nome": "Scizor",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 508,
+        "nome": "Shuckle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 509,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 510,
+        "nome": "Sneasel",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 511,
+        "nome": "Teddiursa",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 512,
+        "nome": "Ursaring",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 513,
+        "nome": "Slugma",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 514,
+        "nome": "Magcargo",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 515,
+        "nome": "Swinub",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 516,
+        "nome": "Piloswine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 517,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 518,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 519,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 520,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 521,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 522,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 523,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 524,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 525,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 526,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 527,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 528,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 529,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 530,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 531,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 532,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 533,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 534,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 535,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 536,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 537,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 538,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 539,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 540,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 541,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 542,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 543,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 544,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 545,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 546,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 547,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 548,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 549,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 550,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 551,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 552,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 553,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 554,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 555,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 556,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 557,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 558,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 559,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 560,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 561,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 562,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 563,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 564,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 565,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 566,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 567,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 568,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 569,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 570,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 571,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 572,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 573,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 574,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 575,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 576,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 577,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 578,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 579,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 580,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 581,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 582,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 583,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 584,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 585,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 586,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 587,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 588,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 589,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 590,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 591,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 592,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 593,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 594,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 595,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 596,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 597,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 598,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 599,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 600,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 601,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 602,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 603,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 604,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 605,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 606,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 607,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 608,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 609,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 610,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 611,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 612,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 613,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 614,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 615,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 616,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 617,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 618,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 619,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 620,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 621,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 622,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 623,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 624,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 625,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 626,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 627,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 628,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 629,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 630,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 631,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 632,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 633,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 634,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 635,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 636,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 637,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 638,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 639,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 640,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 641,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 642,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 643,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 644,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 645,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 646,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 647,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 648,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 649,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 650,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 651,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 652,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 653,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 654,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 655,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 656,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 657,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 658,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 659,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 660,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 661,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 662,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 663,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 664,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 665,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 666,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 667,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 668,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 669,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 670,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 671,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 672,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 673,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 674,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 675,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 676,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 677,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 678,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 679,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 680,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 681,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 682,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 683,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 684,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 685,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 686,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 687,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 688,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 689,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 690,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 691,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 692,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 693,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 694,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 695,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 696,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 697,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 698,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 699,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 700,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 701,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 702,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 703,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 704,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 705,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 706,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 707,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 708,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 709,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 710,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 711,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 712,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 713,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 714,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 715,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 716,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 717,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 718,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 719,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 720,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 721,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 722,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 723,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 724,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 725,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 726,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 727,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 728,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 729,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 730,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 731,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 732,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 733,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 734,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 735,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 736,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 737,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 738,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 739,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 740,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 741,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 742,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 743,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 744,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 745,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 746,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 747,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 748,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 749,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 750,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 751,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 752,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 753,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 754,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 755,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 756,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 757,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 758,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 759,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 760,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 761,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 762,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 763,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 764,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 765,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 766,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 767,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 768,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 769,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 770,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 771,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 772,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 773,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 774,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 775,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 776,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 777,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 778,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 779,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 780,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 781,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 782,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 783,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 784,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 785,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 786,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 787,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 788,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 789,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 790,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 791,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 792,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 793,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 794,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 795,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 796,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 797,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 798,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 799,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 800,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 801,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 802,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 803,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 804,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 805,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 806,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 807,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 808,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 809,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 810,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 811,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 812,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 813,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 814,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 815,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 816,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 817,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 818,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 819,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 820,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 821,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 822,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 823,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 824,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 825,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 826,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 827,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 828,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 829,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 830,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 831,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 832,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 833,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 834,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 835,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 836,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 837,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 838,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 839,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 840,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 841,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 842,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 843,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 844,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 845,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 846,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 847,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 848,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 849,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 850,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 851,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 852,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 853,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 854,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 855,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 856,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 857,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 858,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 859,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 860,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 861,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 862,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 863,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 864,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 865,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 866,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 867,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 868,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 869,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 870,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 871,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 872,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 873,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 874,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 875,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 876,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 877,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 878,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 879,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 880,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 881,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 882,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 883,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 884,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 885,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 886,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 887,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 888,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 889,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 890,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 891,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 892,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 893,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 894,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 895,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 896,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 897,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 898,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 899,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 900,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 901,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 902,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 903,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 904,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 905,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 906,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 907,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 908,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 909,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 910,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 911,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 912,
+        "nome": "Tyrogue",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 913,
+        "nome": "Hitmontop",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 914,
+        "nome": "Smoochum",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 915,
+        "nome": "Elekid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 916,
+        "nome": "Electabuzz",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 917,
+        "nome": "Electivire",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 918,
+        "nome": "Magby",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 919,
+        "nome": "Magmar",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 920,
+        "nome": "Magmortar",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 921,
+        "nome": "Pinsir",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 922,
+        "nome": "Heracross",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 923,
+        "nome": "Corsola",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 924,
+        "nome": "Remoraid",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 925,
+        "nome": "Octillery",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 926,
+        "nome": "Delibird",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 927,
+        "nome": "Mantine",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 928,
+        "nome": "Skarmory",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 929,
+        "nome": "Kingdra",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 930,
+        "nome": "Phanpy",
+        "rarit\u00e0": "Comune",
+        "probabilit\u00e0": "60%"
+    },
+    {
+        "id": 931,
+        "nome": "Donphan",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 932,
+        "nome": "Porygon2",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 933,
+        "nome": "Porygon-Z",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 934,
+        "nome": "Stantler",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    },
+    {
+        "id": 935,
+        "nome": "Smeargle",
+        "rarit\u00e0": "Raro",
+        "probabilit\u00e0": "20%"
+    }
+]
